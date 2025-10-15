@@ -81,10 +81,10 @@ while(robot_activo) {
 ## 📸 Galería del Proyecto
 
 ### 🤖 Vista del Robot Ensamblado
-> *Imagen del chasis completo con sensores y electrónica integrada*
+[Esquiva obstaculos robot.jpg]
 
 ### 🔌 Diagrama de Cableado
-> *Esquema eléctrico mostrando todas las conexiones*
+[Esquiva obstaculos.jpg]
 
 ---
 
