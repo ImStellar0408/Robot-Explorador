@@ -81,10 +81,10 @@ while(robot_activo) {
 ## 📸 Galería del Proyecto
 
 ### 🤖 Vista del Robot Ensamblado
-[Esquiva obstaculos robot.jpg]
+![Imagen funcionamiento bot](Esquivaobstaculosrobot.jpg)
 
 ### 🔌 Diagrama de Cableado
-[Esquiva obstaculos.jpg]
+![Imagen funcionamiento bot](Esquivaobstaculos.jpg)
 
 ---
 
